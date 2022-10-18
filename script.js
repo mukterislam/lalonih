@@ -28,6 +28,17 @@ const music_list = [
         music : 'music/stay.mp3'
     },
     {
+
+        img : 'images/stay.png',
+
+        name : 'Stay',
+
+        artist : 'Aida  Аида - Дорогой (Aristokratlar dasturidan)',
+
+        music : 'music/Aida.mp3'
+
+    },
+    {
         img : 'images/fallingdown.jpg',
         name : 'Falling Down',
         artist : 'Wid Cards',
